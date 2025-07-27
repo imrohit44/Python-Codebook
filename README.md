@@ -12,6 +12,10 @@ This repository contains a collection of Python programs demonstrating various c
 *   [program\_7.py](program_7.py): Uses a context manager (`Timer` class) to measure the execution time of code blocks.
 *   [program\_8.py](program_8.py): Implements a retry decorator that retries a function upon encountering specified exceptions, with configurable retries, delay, and backoff.
 *   [program\_9.py](program_9.py): Shows an Event Manager class that allows subscribing to and triggering events, enabling a publish-subscribe pattern.
+*   [program\_10.py](program_10.py): Implements Dijkstra's algorithm to find the shortest paths from a starting node to all other nodes in a weighted graph.
+*   [program\_11.py](program_11.py): Solves the coin change problem using dynamic programming to find the minimum number of coins needed for a given amount.
+*   [program\_12.py](program_12.py): Implements a Trie data structure with insert, search, and starts\_with methods for efficient string prefix searching.
+*   [program\_13.py](program_13.py): Demonstrates concurrent task execution using `ThreadPoolExecutor` from the `concurrent.futures` module.
 
 ## Usage
 
