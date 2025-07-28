@@ -1,6 +1,6 @@
 # Python Practice Programs
 
-This repository contains a collection of Python programs demonstrating various concise and expressive features of the language.
+This repository contains a collection of Python programs demonstrating various concise and expressive features of the language
 
 ## Program Descriptions
 
