@@ -5,7 +5,7 @@ This repository contains a collection of Python programs demonstrating various c
 ## Program Descriptions
 
 *   [program\_1.py](program_1.py): Demonstrates list comprehensions for creating lists in a concise way, including squaring numbers and filtering even numbers.
-*   [program\_2.py](program_2.py): Shows dictionary comprehensions for creating dictionaries concisely, specifically creating a dictionary of cubes.
+*   [program\_2.py](program_2.py): Shows dictionary comprehensions for creating dictionaries concisely, specificall creating a dictionary of cubes.
 *   [program\_4.py](program_4.py): Presents a generator function (`fibonacci_generator`) that returns an iterator, producing a Fibonacci sequence on the fly using the `yield` keyword.
 *   [program\_5.py](program_5.py): Implements an LRU (Least Recently Used) cache using a doubly linked list and a dictionary for efficient get and put operations.
 *   [program\_6.py](program_6.py): Demonstrates asynchronous HTTP requests using `asyncio` and `aiohttp` to fetch content from multiple URLs concurrently.
