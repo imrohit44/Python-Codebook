@@ -19,7 +19,7 @@ This repository contains a collection of Python programs demonstrating various c
 
 ## Usage
 
-Each program is self-contained and can be run directly using a Python interpreter. To run a program, navigate to the directory containing the script and execute:
+Each program is self-contained and can be run directly using a Python interpreter.To run a program, navigate to the directory containing the script and execute:
 
 ```bash
 python program_name.py
