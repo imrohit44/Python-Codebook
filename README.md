@@ -17,7 +17,7 @@ This repository contains a collection of Python programs demonstrating various c
 *   [program\_12.py](program_12.py): Implements a Trie data structure with insert, search, and starts\_with methods for efficient string prefix searching.
 *   [program\_13.py](program_13.py): Demonstrates concurrent task execution using `ThreadPoolExecutor` from the `concurrent.futures` module.
 
-## Usage
+## Usage:
 
 Each program is self-contained and can be run directly using a Python interpreter.To run a program, navigate to the directory containing the script and execute:
 
