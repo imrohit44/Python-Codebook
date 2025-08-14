@@ -14,7 +14,7 @@ This repository contains a comprehensive collection of 71 Python programs demons
 *   **[program_7.py](program_7.py)**: [Additional Python feature demonstration]
 *   **[program_8.py](program_8.py)**: [Additional Python feature demonstration]
 *   **[program_9.py](program_9.py)**: [Additional Python feature demonstration]
-*   **[program_10.py](program_10.py)**: Dijkstra's shortest path algorithm
+*   **[program_10.py](program_10.py)**: Dijkstra's shortest path algorithm.
 
 ### Programs 11-20: Advanced Algorithms and Patterns
 *   **[program_11.py](program_11.py)**: [Algorithm or pattern demonstration]
