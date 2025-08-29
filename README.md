@@ -4,7 +4,7 @@ This repository contains a comprehensive collection of 131 Python programs demon
 
 ### Programs 1-10: Basic Python Features
 *   **[program_1.py](program_1.py)**: List comprehensions (squares and even numbers filtering)
-*   **[program_2.py](program_2.py)**: Dictionary comprehensions (cubes dictionary)
+*   **[program_2.py](program_2.py)**: Dictionary comprehensions
 *   **[program_3.py](program_3.py)**: Lambda functions with map, filter, and sorted
 *   **[program_4.py](program_4.py)**: Generator functions (Fibonacci sequence)
 *   **[program_5.py](program_5.py)**: LRU Cache implementation with doubly linked list
