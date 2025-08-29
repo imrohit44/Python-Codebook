@@ -2,8 +2,6 @@
 
 This repository contains a comprehensive collection of 71 Python programs demonstrating various advanced features, algorithms, design patterns, and best practices of the Python language. Each program is self-contained and focuses on specific concepts.
 
-## Complete Program List
-
 ### Programs 1-10: Basic Python Features
 *   **[program_1.py](program_1.py)**: List comprehensions (squares and even numbers filtering)
 *   **[program_2.py](program_2.py)**: Dictionary comprehensions (cubes dictionary)
