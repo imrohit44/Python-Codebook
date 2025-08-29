@@ -97,7 +97,7 @@ python program_1.py
 ### Prerequisites
 
 - Python 3.6 or higher
-- Standard library modules (no external dependencies required)
+- Standard library modules 
 
 ### Running Programs
 
