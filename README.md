@@ -73,14 +73,7 @@ This repository contains a comprehensive collection of 131 Python programs demon
 *   **[program_59.py](program_59.py)**: [Distributed system or caching demonstration]
 *   **[program_60.py](program_60.py)**: Distributed cache with consistent hashing
 
-### Programs 61-71: Advanced Concurrency and System Programming
-*   **[program_61.py](program_61.py)**: [Advanced concurrency or system programming demonstration]
-*   **[program_62.py](program_62.py)**: [Advanced concurrency or system programming demonstration]
-*   **[program_63.py](program_63.py)**: [Advanced concurrency or system programming demonstration]
-*   **[program_64.py](program_64.py)**: [Advanced concurrency or system programming demonstration]
-*   **[program_65.py](program_65.py)**: [Advanced concurrency or system programming demonstration]
-*   **[program_66.py](program_66.py)**: [Advanced concurrency or system programming demonstration]
-*   **[program_67.py](program_67.py)**: [Advanced concurrency or system programming 
+
 
 ## Usage
 
