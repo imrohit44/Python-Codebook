@@ -81,9 +81,7 @@ This repository contains a comprehensive collection of 131 Python programs demon
 *   **[program_65.py](program_65.py)**: [Advanced concurrency or system programming demonstration]
 *   **[program_66.py](program_66.py)**: [Advanced concurrency or system programming demonstration]
 *   **[program_67.py](program_67.py)**: [Advanced concurrency or system programming demonstration]
-*   **[program_68.py](program_68.py)**: [Advanced concurrency or system programming demonstration]
-*   **[program_69.py](program_69.py)**: [Advanced concurrency or system programming demonstration]
-*   **[program_70.py](program_70.py)**: Asynchronous log manager with queue-based writing
+*   **[program_68.py](program_68.py)**: [Advanced concurrency or system programming 
 
 ## Usage
 
