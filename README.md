@@ -1,6 +1,6 @@
 # Python Practice Programs
 
-This repository contains a comprehensive collection of 212 Python programs demonstrating various advanced features, algorithms, design patterns, and best practices of the Python language. All program files are now organized inside the `programs` folder. Each program is self-contained and focuses on specific concepts.
+This repository contains a comprehensive collection of 258 Python programs demonstrating various advanced features, algorithms, design patterns, and best practices of the Python language. All program files are now organized inside the `programs` folder. Each program is self-contained and focuses on specific concepts.
 
 ### Programs 1-10: Basic Python Features
 *   **[program_1.py](programs/program_1.py)**: List comprehensions
