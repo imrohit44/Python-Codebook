@@ -33,12 +33,12 @@ This repository is a magnificent collection of **300 Python programs** showcasin
 
 ### ✨ What's Inside?
 
-- 🎯 **Algorithms & Data Structures**
-- 🔄 **Design Patterns & Best Practices**
-- 🚀 **Advanced Python Features**
-- 🧠 **Problem-Solving Techniques**
-- 🔧 **Practical Implementation Examples**
-- 📊 **Real-world Applications**
+-  **Algorithms & Data Structures**
+-  **Design Patterns & Best Practices**
+-  **Advanced Python Features**
+-  **Problem-Solving Techniques**
+-  **Practical Implementation Examples**
+-  **Real-world Applications**
 
 <div align="center">
 
@@ -46,13 +46,13 @@ This repository is a magnificent collection of **300 Python programs** showcasin
 
 | Category | Description |
 |----------|------------|
-| 🌱 Basics | Fundamental concepts and syntax |
-| 🔥 Advanced | Complex algorithms and patterns |
-| 💻 Data Structures | Implementation of various data structures |
-| 🔄 Algorithms | Classic and modern algorithm implementations |
-| 🎮 Games | Simple game implementations |
-| 🛠️ Tools | Utility programs and tools |
-| 🧪 Examples | Practical examples and use cases |
+|  Basics | Fundamental concepts and syntax |
+|  Advanced | Complex algorithms and patterns |
+|  Data Structures | Implementation of various data structures |
+|  Algorithms | Classic and modern algorithm implementations |
+|  Games | Simple game implementations |
+|  Tools | Utility programs and tools |
+|  Examples | Practical examples and use cases |
 
 ### 🚀 Getting Started
 
@@ -112,14 +112,6 @@ If you find this repository helpful, please consider giving it a star! It helps 
 [![Python Version](https://img.shields.io/badge/Python-3.6+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/imrohit44/Python-Programs/pulls)
 [![License](https://img.shields.io/badge/License-MIT-red.svg?style=for-the-badge)](LICENSE)
-
-</div>
-
-### 📞 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-imrohit44-black?style=for-the-badge&logo=github)](https://github.com/imrohit44)
 
 </div>
 
